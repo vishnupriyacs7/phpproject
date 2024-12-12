@@ -3,6 +3,6 @@
 $name = $_REQUEST['name'];
 $message = $_REQUEST['message'];
 
-echo "Name: " . $name . "<br>";
+echo "your Name: " . $name . "<br>";
 echo "Message: " . $message;
 ?>
